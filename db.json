@@ -1,0 +1,194 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Vinit",
+      "lastName": "devani",
+      "email": "devani@gmai.com",
+      "password1": "miteshkavar1",
+      "phone": "12345678901",
+      "gender": "Female",
+      "state": "Gujarat",
+      "city": "morbi"
+    },
+    {
+      "firstName": "Mitesh",
+      "lastName": "bhai",
+      "email": "mk@gmail.com",
+      "password1": "mkmkmkmk",
+      "password2": "mkmkmkmk",
+      "state": "Rajsthan",
+      "id": 2,
+      "phone": "098765432123456",
+      "gender": "vadil123",
+      "city": "surat"
+    },
+    {
+      "firstName": "vadil1",
+      "lastName": "bhai",
+      "email": "vadil@gmail.com",
+      "password1": "mkmkmkmk",
+      "password2": "mkmkmkmk",
+      "state": "Rajsthan",
+      "id": 3,
+      "phone": "098765432123456",
+      "gender": "vadil123",
+      "city": "surat"
+    },
+    {
+      "firstName": "Swami 1",
+      "lastName": "jsk",
+      "email": "swami@gmail.com",
+      "password1": "zxcvbnm,",
+      "password2": "zxcvbnm,",
+      "state": "Gujarat",
+      "id": 4,
+      "phone": "234567898765",
+      "gender": "Female",
+      "city": "Rajkot"
+    }
+  ],
+  "posts": [
+    {
+      "text": "collaboration and Google Cloud Platform for easy-to-use, scalable infrastructure. See our solutions for any size and type of business.",
+      "userID": 2,
+      "date": "July 26 2020",
+      "time": "6:36 PM",
+      "id": 5,
+      "likes": 3
+    },
+    {
+      "text": "Google Cloud includes G Suite for team collaboration and Google Cloud Platform for easy-to-use, scalable infrastructure. See our solutions for any size and type of business.",
+      "userID": 2,
+      "date": "July 26 2020",
+      "time": "6:36 PM",
+      "id": 6,
+      "likes": 5
+    },
+    {
+      "text": "Gmail logo Google Docs logo Google Drive logo Google Calendar logo\nG Suite\nWork as a team with custom email (like joe@yourcompany) from Gmail and productivity tools like Docs, Drive, and Calendar.\n\nTRY IT FREE\nGoogle Cloud Platform logo\nWeb Hosting\nHost your website, blog, or online store. Our hosting solutions are easy to use and optimized for fast, reliable performance. Get started with a $300 free credit.\n\nGoogle Cloud Platform logo\nCloud Storage\nSecurely store and back up all of your data. There’s no need to manage IT hardware and you only pay for what you use.\n\nGoogle Cloud Platform logo\nData Analytics\nConnect and analyze all of your data from multiple sources to better understand your customers and their behavior.",
+      "userID": 1,
+      "date": "July 26 2020",
+      "time": "6:42 PM",
+      "id": 7,
+      "likes": 0
+    },
+    {
+      "text": "Turn your passion into profit.\nShow ads on your site or mobile app. When someone clicks, you get paid.",
+      "userID": 3,
+      "date": "July 26 2020",
+      "time": "6:42 PM",
+      "id": 8,
+      "likes": 9
+    },
+    {
+      "text": "Is your site fast enough? Test it now.\nMost mobile sites lose half of their visitors while loading. Google can help make yours faster.",
+      "userID": 3,
+      "date": "July 26 2020",
+      "time": "6:43 PM",
+      "id": 9,
+      "likes": 9
+    },
+    {
+      "text": "Join our Cybersecurity Network. Ask questions. Express your opinions. Share your cybersecurity knowledge and experience.\nPrivate",
+      "userID": 1,
+      "date": "July 28 2020",
+      "time": "10 : 45 AM",
+      "id": 11
+    },
+    {
+      "text": "#जिनमें_अकेले_चलने_का #होंसला_होता_हैं,\n#उनके_पीछे_एक_दिन #काफिला_होता_हैं ।।\n#ठाकर_कि1_सरकार",
+      "userID": 1,
+      "date": "July 28 2020",
+      "time": "10 : 45 AM",
+      "id": 12
+    },
+    {
+      "text": "Meet Tamilarasan from Alanganallur, Madurai, a tea seller who spends a portion of his daily income to feed the poor and homeless amidst the COVID-19 crisis. We salute him for his selfless service and being an inspiration for many. #CoronaWarrior #IndiaFightsCorona Press Information Bureau - PIB, Government of India",
+      "userID": 3,
+      "date": "July 28 2020",
+      "time": "10 : 57 AM",
+      "id": 13
+    },
+    {
+      "text": "ever Leave Your IDE in Search of Code!\nImprove the speed you write code, discover new code snippets, and create better software\nAvailable for all (well, most) languages and IDEs",
+      "userID": 3,
+      "date": "July 28 2020",
+      "time": "10 : 57 AM",
+      "id": 14
+    },
+    {
+      "text": "આને કહેવાય મુખ્યમંત્રી...\nગુજરાત વિજય રૂપાણી ભાજપ સરકાર જ્યારે દંડ ઉઘરાવવામાં, વેરા વસુલવામાં, પોલીસ કેસ કરવામાં અને લોકોને લૂંટવામાં વ્યસ્ત છે ત્યારે દિલ્લીની ઈમાનદાર સરકારના મુખ્યમંત્રી શ્રી અરવિંદ કેજરીવાલ લોકોના કામધંધાની ચિંતા કરી રહ્યા છે.\nગુજરાતમાં લોકો આત્મહત્યા કરી રહ્યા છે, લોકો ગામડા તરફ જઈ રહ્યા છે ત્યારે ભાજપ સરકાર પેટાચૂંટણીમાં વ્યસ્ત છે, અને દિલ્લીની સરકાર લોકોના કામધંધા પાટે ચડે એના માટે પ્રયત્ન કરે છે.",
+      "userID": 3,
+      "date": "July 28 2020",
+      "time": "10 : 58 AM",
+      "id": 15
+    },
+    {
+      "text": "\"Delhi flattens the death curve, Covid deaths down 44% in June\"\nPersonally, this has been my most important mission from the beginning of the pandemic.  \nWe will not get complacent even now, this figure needs to come down to ZERO.",
+      "userID": 4,
+      "date": "July 28 2020",
+      "time": "11 : 58 AM",
+      "id": 16
+    },
+    {
+      "text": "Photo : 1 દીલ્હી સરકારની સરકારી શાળા ( ૫ વર્ષનું કામ )\nPhoto : 2 ગુજરાત ભાજપાની ઓફિસ ( ૨૦ વર્ષનું કામ )\nકોઈ માટે પક્ષ મહત્વનો છે તો કોઈના માટે દેશ !",
+      "userID": 4,
+      "date": "July 28 2020",
+      "time": "11 : 08 PM",
+      "id": 17
+    },
+    {
+      "text": "મોરબી શહેરમાં વધતા કોરોના કેસને અનુલક્ષીને આજરોજ સેનિટાઇઝર મશીન પ્રજાજનોના હિત માટે અર્પણ કરવામાં આવ્યું હતું. આ તકે મોરબી શહેર તથા જિલ્લા ભાજપના અગ્રણીઓ ઉપસ્થિત રહ્યા હતા.\nઆપણું મોરબી...\nસુરક્ષિત મોરબી...",
+      "userID": 4,
+      "date": "July 28 2020",
+      "time": "11 : 02 AM",
+      "id": 18
+    },
+    {
+      "text": "મોરબી શહેરમાં વધતા કોરોના કેસને અનુલક્ષીને આજરોજ સેનિટાઇઝર મશીન પ્રજાજનોના હિત માટે અર્પણ કરવામાં આવ્યું હતું. આ તકે મોરબી શહેર તથા જિલ્લા ભાજપના અગ્રણીઓ ઉપસ્થિત રહ્યા હતા.\nઆપણું મોરબી...\nસુરક્ષિત મોરબી...",
+      "userID": 4,
+      "date": "July 28 2020",
+      "time": "11 : 03 AM",
+      "id": 19
+    },
+    {
+      "text": "JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area.\n\n",
+      "userID": 2,
+      "date": "July 28 2020",
+      "time": "2 : 35 PM",
+      "id": 20
+    },
+    {
+      "text": "HTML is the markup language that we use to structure and give meaning to our web content, for example defining paragraphs, headings, and data tables, or embedding images and videos in the page.\nCSS is a language of style rules that we use to apply styling to our HTML content, for example setting background colors and fonts, and laying out our content in multiple columns.\nJavaScript is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, and pretty much everything else. (Okay, not everything, but it is amazing what you can achieve with a few lines of JavaScript code.)",
+      "userID": 2,
+      "date": "July 28 2020",
+      "time": "2 : 42 PM",
+      "id": 21
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "postID": 5,
+      "comment": "nice"
+    },
+    {
+      "comment": "jamavat",
+      "userID": 2,
+      "id": 2
+    },
+    {
+      "comment": "wow",
+      "userID": 2,
+      "postID": 6,
+      "id": 3
+    },
+    {
+      "comment": "AAP",
+      "userID": 2,
+      "postID": 15,
+      "id": 4
+    }
+  ]
+}
